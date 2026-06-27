@@ -40,7 +40,7 @@ export default function Hero() {
         </div>
 
         <div className="relative">
-          <div className="absolute -right-3 -top-3 hidden rounded-full bg-amber-300 px-5 py-3 text-sm font-black text-slate-950 shadow-xl md:block">
+          <div className="absolute -right-3 -top-10 hidden rounded-full bg-amber-300 px-5 py-3 text-sm font-black text-slate-950 shadow-xl md:block">
             Live Farm Picks
           </div>
 
