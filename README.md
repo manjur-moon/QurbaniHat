@@ -6,7 +6,7 @@ QurbaniHat is a modern livestock booking platform built for Qurbani animal brows
 
 ## Live Project Link
 
-Live Website: [Add your Vercel live project link here](https://qurbani-hat-assignment-08-4wk6.vercel.app/)
+Live Website: https://qurbani-hat-assignment-08-4wk6.vercel.app
 
 
 
