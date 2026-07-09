@@ -6,17 +6,9 @@ QurbaniHat is a modern livestock booking platform built for Qurbani animal brows
 
 ## Live Project Link
 
-Live Website: Add your Vercel live project link here
+Live Website: [Add your Vercel live project link here](https://qurbani-hat-assignment-08-4wk6.vercel.app/)
 
-## Screenshot
 
-Add a clean screenshot of the homepage or animal listing page here.
-
-```md
-![QurbaniHat Screenshot](./screenshots/qurbanihat-home.png)
-```
-
-> Note: Create a `screenshots` folder in the project root and add your screenshot there. If you do not want to add a screenshot, you may remove this section.
 
 ## Technologies Used
 
@@ -208,8 +200,5 @@ Tests the MongoDB Atlas connection.
 
 ## Relevant Resources
 
-Live Website: Add your Vercel live project link here  
-GitHub Repository: Add your GitHub repository link here  
-MongoDB Atlas: https://www.mongodb.com/atlas  
-Better Auth Documentation: https://www.better-auth.com/  
-Next.js Documentation: https://nextjs.org/docs
+Live Website: https://qurbani-hat-assignment-08-4wk6.vercel.app
+
